@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Temzzz 👋</h1>
 
----
 
 ## 👋 About Me
 
