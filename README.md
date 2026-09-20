@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Temzzz 👋</h1>
 
-<!--
-**TimohaBourbon/TimohaBourbon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👋 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 I'm currently improving my **Python** skills through pet projects, startups, real-world projects and experimentation  
+🤖 I enjoy **automating every process I can get my hands on**  
+🛠️ Currently improving my knowledge of **PostgreSQL, Linux and Docker**
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![PyCharm](https://img.shields.io/badge/PyCharm-0D1117?style=for-the-badge&logo=pycharm&logoColor=FFFFFF)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TimohaBourbon&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimohaBourbon&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>“I am not hated.”</i>
+</p>
+
+<p align="center">
+  — <b>Giyu Tomioka</b>
+</p>
