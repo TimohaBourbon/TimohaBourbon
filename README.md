@@ -24,11 +24,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TimohaBourbon&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimohaBourbon&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="./profile/stats.svg" height="165" />
+  <img src="./profile/top-langs.svg" height="165" />
 </p>
 
 ---
