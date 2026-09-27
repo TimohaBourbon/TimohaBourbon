@@ -5,7 +5,7 @@
 
 🐍 I'm currently improving my **Python** skills through pet projects, startups, real-world projects and experimentation  
 🤖 I enjoy **automating every process I can get my hands on**  
-🛠️ Currently improving my knowledge of **PostgreSQL, Linux and Docker**
+🛠️ Also improving my knowledge of **PostgreSQL, Linux and Docker**
 
 ---
 
